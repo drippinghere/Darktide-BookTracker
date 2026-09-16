@@ -95,9 +95,7 @@ Controls the table's font size from 12 to 24.
 
 Writes additional BookTracker discovery, matching, allocation, and error information to the game log. This should normally remain disabled and can be enabled when troubleshooting a mission or preparing a bug report.
 
-## Known limitations
+## Notes
 
 - Individual locations are numbered; custom landmark descriptions are not included.
 - Open or non-linear missions do not use Darktide's path-section grouping algorithm, so BookTracker leaves their locations ungrouped.
-- On a dedicated-server client, active books are associated with the nearest eligible authored spawner. The exact pickup-to-spawner association is used when the game exposes it locally.
-- Re-enabling the entire mod after a mission has already loaded can miss active-book initialization events. Reload the mission after re-enabling it. The table keybind can hide or restore the table without disabling tracking or world markers.
