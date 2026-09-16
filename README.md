@@ -1,6 +1,8 @@
-# BookTracker 1.0.0
+# BookTracker
 
 BookTracker lists every level-authored Scripture or Grimoire spawn location for the current mission. It displays only the collectible used by the active side objective. Possible locations are white, locations selected for the current run are green, and locations that the game can prove will never become active are red. Optional in-world markers use the same state model.
+
+<img width="1920" height="1080" alt="20260915015136_1" src="https://github.com/user-attachments/assets/e87e1859-bbf2-4fa7-8f1e-1f242c8200dd" />
 
 ## Requirements
 
